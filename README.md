@@ -2,7 +2,7 @@
 itch.io link - https://to-gaming.itch.io/tamir-spaceshield
 
 ## Setup Info
-This is a simple game developed and tested on UnityEngine 2020.3.9f1.
+This is a simple game developed and tested on UnityEngine 2020.3.9f1. <br  />
 This game is HTML5 web based, you can find it on itch.io (game hosting website).
 
 ## Changes Details:
